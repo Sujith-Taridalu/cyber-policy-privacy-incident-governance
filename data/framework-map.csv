@@ -1,0 +1,12 @@
+framework,governance_focus,example_scenario,portfolio_takeaway
+FTC Act,Consumer protection and unfair or deceptive business practices,Company fails to maintain reasonable data safeguards,Security claims must match implemented controls
+CFAA,Unauthorized access and protected computer misuse,Actor accesses systems without authorization,Access boundaries and authorization matter
+CIRCIA,Critical infrastructure incident reporting,Covered entity experiences significant cyber incident,Incident response needs reporting decision workflow
+SEC cyber disclosure,Public company cyber risk and incident disclosure,Material cyber event affects investors or business operations,Cyber risk is board and investor governance issue
+FISA Section 702,Foreign intelligence and privacy safeguards,Foreign intelligence activity with privacy implications,Oversight and minimization matter
+Fourth Amendment,Search and seizure limits,Digital records or devices involved in investigation,Scope and justification matter in digital privacy
+GDPR,Personal data rights and protection,Personal data collection retention or transfer,Privacy rights and data governance should be designed in
+CCPA,Consumer privacy rights,Business collection or sharing of consumer data,Transparency and consumer control are important
+HIPAA,Health information privacy and security,Healthcare IoT or patient data handling,Sensitive health data needs strong safeguards
+FISMA / NIST,Federal security governance and control programs,Security control baseline and assessment,Controls should be tailored to risk
+IEEPA / sanctions risk,Restricted transactions and national security concerns,Payment or transaction involving restricted parties,Cyber incidents may require legal and finance escalation
