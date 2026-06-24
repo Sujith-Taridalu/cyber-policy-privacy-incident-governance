@@ -1,0 +1,10 @@
+case_theme,issue,governance_lesson,safe_public_artifact
+Retail data breach,Vendor access and segmentation gaps,Third-party access governance and monitoring matter,Sanitized case table
+Critical infrastructure ransomware,Inactive remote account missing MFA and segmentation gaps,Identity lifecycle segmentation and recovery planning are critical,Incident governance summary
+Privacy and sensitive technology,High-risk monitoring technology can create rights and accountability concerns,Oversight transparency and use limitations are important,Privacy ethics summary
+NIST and compliance,Checklist thinking can miss actual risk,Controls should be tailored tested and owned,NIST governance artifact
+FTC vs CFAA,Company data-safeguard duties differ from unauthorized access liability,Identify the accountability lens before analysis,Legal framework map
+CIRCIA vs SEC,Reporting audience and trigger differ by context,Maintain incident reporting decision matrix,Incident reporting flow
+CISO liability,Security leaders face pressure to communicate risk accurately,Board communication and documentation matter,Executive governance notes
+IoT privacy,Connected devices collect sensitive and distributed data,Privacy by design and secure lifecycle controls matter,IoT privacy/security artifact
+Critical infrastructure supply chain,Foreign or vendor-managed equipment may create resilience risk,Procurement security and supplier review matter,Supply-chain governance notes
